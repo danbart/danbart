@@ -1,5 +1,5 @@
 <a href="https://github.com/danbart">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbart&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbart&theme=algolia&layout=compact&langs_count=8" />
 </a>
 <a href="https://github.com/danbart">
   <img src="https://github-readme-stats.vercel.app/api?username=danbart&theme=algolia&count_private=true&show_icons=true" />
