@@ -2,7 +2,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbart&theme=algolia" />
 </a>
 <a href="https://github.com/danbart">
-  <img src="https://github-readme-stats.vercel.app/api?username=danbart&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danbart&theme=algolia&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://github.com/danbart">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=danbart&theme=algolia" />
 </a>
 
 <!--
