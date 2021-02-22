@@ -1,11 +1,11 @@
 <a href="https://github.com/danbart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danbart&theme=algolia&layout=compact&langs_count=8" />
 </a>
-&nbsp;
+<p>&nbsp;</p>
 <a href="https://github.com/danbart">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danbart&theme=algolia&count_private=true&show_icons=true" />
 </a>
-&nbsp;
+<p>&nbsp;</p>
 <a href="https://github.com/danbart">
   <img align="center" src="https://wakatime.com/share/@danbart/5383d78f-ad65-4f2a-bb70-0f6e3a62c6f7.svg" />
 </a>
