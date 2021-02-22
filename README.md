@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/danbart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danbart&theme=algolia" />
+  <img align="center" src="https://wakatime.com/share/@danbart/5383d78f-ad65-4f2a-bb70-0f6e3a62c6f7.svg" />
 </a>
 
 <!--
